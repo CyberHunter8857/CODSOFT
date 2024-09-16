@@ -3,7 +3,7 @@
 Welcome to my CodSoft Web Development Internship repository. This repository contains the projects I’ve completed as part of the internship, focused on HTML, CSS, and JavaScript.
 
 ## Table of Contents
-1. [Task 1: Landing Page](#task-1-landing-page)
+1. [Task 1: Landing Page](TerrainAdventures(Landing_Page))
 2. [Task 2: Personal Portfolio](#task-2-personal-portfolio)
 3. [Task 3: Basic Calculator](#task-3-basic-calculator)
 
@@ -13,6 +13,10 @@ Welcome to my CodSoft Web Development Internship repository. This repository con
 
 **Description**:  
 This project involves creating a simple and visually appealing landing page using HTML and CSS. The focus is on designing a clean layout with proper column arrangements, section divisions, and alignments. Emphasis is placed on creative design, use of CSS for visual styling, and ensuring a user-friendly experience.
+
+You can view the live version of the website hosted on Vercel by clicking the link below:
+
+🔗 **[Visit the Live Website](https://terrain-adventures-landing-page.vercel.app/)**
 
 **Features**:
 - Structured page layout with header, sections, and footer
